@@ -65,7 +65,7 @@
 
 
 
-
+/*========<  Header Style Start From Here >=========*/
 
 .header-shape01{
   position: absolute;
@@ -142,8 +142,12 @@
   transition: 0.5s;
 }
 
+/*========<  Header Style End Here >=========*/
 
 
+
+
+/*========<  About Section Style Start From Here >=========*/
 
 .About-section{
   background: #fddbc3;
@@ -220,6 +224,14 @@
 .number p{
   margin-top: 100px;
 }
+
+/*========<  About Section Style Start End >=========*/
+
+
+
+
+/*========<  Recipies Section Style Start From Here >=========*/
+
 
 .recipies-section{
   width: 100%;
@@ -338,9 +350,15 @@
   color: #fb9048;
 }
 
+/*========<  Recipies Section Style Start End >=========*/
 
 
 
+
+
+
+
+/*========<  Footer Section Style Start From Here >=========*/
 
 
 .footer{
@@ -391,6 +409,6 @@
 
 
 
-
+/*========<  Footer Section Style Start End >=========*/
 
 
